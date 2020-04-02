@@ -1,0 +1,11 @@
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\bin\Debug\BLL.dll
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\bin\Debug\BLL.pdb
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\bin\Debug\DAL.dll
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\bin\Debug\Entity.dll
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\bin\Debug\DAL.pdb
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\bin\Debug\Entity.pdb
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\obj\Debug\BLL.dll
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BLL\obj\Debug\BLL.pdb

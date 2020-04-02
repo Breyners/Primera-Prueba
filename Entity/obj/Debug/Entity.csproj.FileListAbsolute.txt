@@ -1,0 +1,6 @@
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\Entity\bin\Debug\Entity.dll
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\Entity\bin\Debug\Entity.pdb
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\Entity\obj\Debug\Entity.dll
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\Entity\obj\Debug\Entity.pdb

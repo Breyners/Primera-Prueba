@@ -1,0 +1,12 @@
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\bin\Debug\BancoUI.exe.config
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\bin\Debug\BancoUI.exe
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\bin\Debug\BancoUI.pdb
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\bin\Debug\BLL.dll
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\bin\Debug\Entity.dll
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\bin\Debug\BLL.pdb
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\bin\Debug\Entity.pdb
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\obj\Debug\BancoUI.csprojAssemblyReference.cache
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\obj\Debug\BancoUI.csproj.CoreCompileInputs.cache
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\obj\Debug\BancoUI.csproj.CopyComplete
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\obj\Debug\BancoUI.exe
+C:\Users\UNICESAR-302\source\repos\G02\Banco\BancoUI\BancoUI\obj\Debug\BancoUI.pdb
